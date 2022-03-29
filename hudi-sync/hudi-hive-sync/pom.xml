@@ -30,7 +30,7 @@
 
   <properties>
     <main.basedir>${project.parent.basedir}</main.basedir>
-
+    <hive.version>2.1.1</hive.version>
     <jetty.version>7.6.0.v20120127</jetty.version>
   </properties>
 

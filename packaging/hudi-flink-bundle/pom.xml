@@ -658,7 +658,7 @@
     <profile>
       <id>flink-bundle-shade-hive2</id>
       <properties>
-        <hive.version>2.3.1</hive.version>
+        <hive.version>2.1.1</hive.version>
         <flink.bundle.hive.scope>compile</flink.bundle.hive.scope>
       </properties>
       <dependencies>
